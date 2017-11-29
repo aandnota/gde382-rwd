@@ -74,9 +74,10 @@ header>h1{
 }
 
 .blockquote{
-	background-color: #333333;
-	text-align: center;
-	padding: 1.5em 0;
+	background-color: #fff;
+	text-align: left;
+	padding: 1rem 3rem;
+	font-size: 2rem;
 }
 
 .blockquote {
